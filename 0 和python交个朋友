@@ -1,0 +1,10 @@
+1.对于Windows环境，上官网https://www.python.org/下载安装python解释器 具体哪个版本看心情吧 我常用2.7和3.7 不过图省事的话直接下最新版本就行 
+  安装时候勾选add to path,就不用自己去配置环境变量（不过之后如果玩anaconda还是得自己整的，如果我能坚持记录下去就那时候再细讲配置环境变量吧）
+  MacOS也上官网下载就好
+2.安装集成开发工具：（python自带IDLE，但是不怎么好使，我个人更喜欢用VSCode，官网下载安装：https://code.visualstudio.com/）
+  我用VScode，对我来讲pycharm太笨重了。不过也许以后会换。
+  跟着官网里的setup教程来走，完成vscode的配置就好了 https://code.visualstudio.com/docs/python/python-tutorial
+  大致就是 下载python插件 然后new一个python file vscode就会自动找可用的python环境 在左下角可以切换 
+  
+3.在vscode里新建的那个python file里输入 import this 并且运行吧 
+  用python之禅来在此时和以后的无数时刻支持自己w
